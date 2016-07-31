@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">firststart</string>
+    <string name="bj">北京</string>
+    <string name="sh">上海</string>
+    <string name="gz">广州</string>
+</resources>
